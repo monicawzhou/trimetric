@@ -1,2 +1,2 @@
-# trimetric
-
+# Trimetric
+![Alt text](oloidTrimetric.png)
